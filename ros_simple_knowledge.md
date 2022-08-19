@@ -57,7 +57,7 @@ This will create a `beginner_tutorials` folder which contains a [package.xml](ht
 
 ## ROSPY
 
-ospy is a pure Python client library for ROS. The rospy client    API enables Python programmers to quickly interface with ROS [Topics](http://ros.org/wiki/Topics), [Services](http://ros.org/wiki/Services), and [Parameters](http://ros.org/wiki/Parameter Server).
+rospy is a pure Python client library for ROS. The rospy client    API enables Python programmers to quickly interface with ROS [Topics](http://ros.org/wiki/Topics), [Services](http://ros.org/wiki/Services), and [Parameters](http://ros.org/wiki/Parameter Server).
 
 how to install rospy
 
